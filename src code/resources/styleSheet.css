@@ -1,0 +1,97 @@
+.root{
+    -fx-background-image: url("./background.jpg");
+        background-image: url("./background.jpg");
+    -fx-background-size: stretch;
+        background-size: stretch;
+}
+
+#logo{
+    -fx-background-image: url("./logo.png");
+        background-image: url("./logo.png");
+    -fx-background-size: stretch;
+        background-size: stretch;
+}
+
+#earth{
+    -fx-background-image: url("./earth.png");
+        background-image: url("./earth.png");
+    -fx-background-size: stretch;
+        background-size: stretch;
+
+}
+
+#transparent{
+    -fx-background-color: transparent;
+        background-color: transparent;
+}
+#meteor{
+    -fx-font-family: 'Arial Bold';
+        font-family: 'Arial Bold';
+    -fx-font-size: 30;
+        font-size: 30;
+    -fx-text-fill: black;
+    -fx-background-image: url("./meteor.png");
+        background-image: url("./meteor.png");
+    -fx-background-size: stretch;
+        background-size: stretch;
+}
+
+#meteorSelected{
+    -fx-font-family: 'Arial Bold';
+        font-family: 'Arial Bold';
+    -fx-font-size: 30;
+        font-size: 30;
+    -fx-text-fill: black;
+    -fx-background-image: url("./meteorselected.png");
+        background-image: url("./meteorselected.png");
+    -fx-background-size: stretch;
+        background-size: stretch;
+}
+
+#bullet{
+    -fx-background-color: aquamarine;
+        background-color: aquamarine;
+}
+
+.clickToStart{
+    -fx-background-image: url("./clickToStart.png");
+        background-image: url("./clickToStart.png");
+    -fx-background-size: stretch;
+        background-size: stretch;
+}
+.clickToStart:hover{
+    -fx-background-image: url("./clickToStartSelected.png");
+        background-image: url("./clickToStartSelected.png");
+    -fx-background-size: stretch;
+        background-size: stretch; 
+}
+#three{
+    -fx-background-image: url("./three.png");
+        background-image: url("./three.png");
+    -fx-background-size: stretch;
+        background-size: stretch;
+}
+
+#two{
+    -fx-background-image: url("./two.png");
+        background-image: url("./two.png");
+    -fx-background-size: stretch;
+        background-size: stretch;
+}
+
+#one{
+    -fx-background-image: url("./one.png");
+        background-image: url("./one.png");
+    -fx-background-size: stretch;
+        background-size: stretch;
+}
+
+#results-text{
+    -fx-font-family: 'Arial Bold';
+        font-family: 'Arial Bold';
+    -fx-font-size: 20;
+        font-size: 20;
+    -fx-background-color: transparent;
+        background-color: transparent;
+    -fx-text-fill: white;
+}
